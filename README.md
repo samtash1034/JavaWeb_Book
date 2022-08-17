@@ -11,7 +11,7 @@
 * Gson
 * Kaptcha驗證碼
 * 資料庫：MySQL
-* 使用ThreadLoca實現事務的管理
+* 使用ThreadLocal實現事務的管理
 
 # 快速上手
 ### 1、運行環境和所需工具
