@@ -58,6 +58,16 @@
 ![信箱格式錯誤](https://user-images.githubusercontent.com/82807965/185015473-19f46ea7-d625-4bc1-b5ba-2281f0858c68.jpg)
 ![驗證碼錯誤](https://user-images.githubusercontent.com/82807965/185015476-2f538e7d-8fcb-4880-a97d-19d2a7d69667.jpg)
 
+### 4、購物車
+* 可修改購買的商品數量，金額也會隨之變動
+* 刪除商品及清空購物車皆會提示
+
+![購物車](https://user-images.githubusercontent.com/82807965/185016546-6a51e667-152a-4eef-aaea-ff6c5635b895.jpg)
+![修改商品數量](https://user-images.githubusercontent.com/82807965/185016551-b9c8e996-8acc-49e2-adaa-c0f9edc4f7ef.jpg)
+![刪除商品](https://user-images.githubusercontent.com/82807965/185016555-9817e88d-6eff-4a15-a3c4-44db50438596.jpg)
+![清空購物車](https://user-images.githubusercontent.com/82807965/185016559-aaa06fa9-17a1-40aa-ae49-73ec29078310.jpg)
+
+
 
 
 
