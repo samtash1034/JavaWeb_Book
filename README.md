@@ -70,7 +70,7 @@
 
 ### 5、結帳
 * 會生成隨機的訂單編號
-* 結帳過後購物車的商品會全部清空
+* 結帳過後購物車的商品會全部清空(會給提示方便跳轉到首頁購買商品)
 
 ![結帳](https://user-images.githubusercontent.com/82807965/185016902-2100c524-b671-46c9-9b0a-4eed9e881125.jpg)
 ![購物車清空](https://user-images.githubusercontent.com/82807965/185016876-9742564c-1b1c-46a3-bda3-4203342331e7.jpg)
