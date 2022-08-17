@@ -5,7 +5,7 @@
 
 * Jsp
 * Servlet
-* 資料庫連接池：druid 
+* 資料庫連接池：Druid 
 * jQuery
 * Ajax
 * Gson
