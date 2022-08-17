@@ -32,8 +32,15 @@
 ### 1、首頁
 * 登入成功會顯示帳號
 * 當前購物車為空則會提醒您
+* 添加商品會顯示目前購物車商品數量及最後一次添加的商品
 
 ![首頁](https://user-images.githubusercontent.com/82807965/185012683-94113f89-f423-4ac6-8bfd-23e86ddd0bd1.jpg)
+![登入成功首頁](https://user-images.githubusercontent.com/82807965/185013271-0371dbbd-74dd-4db8-9357-17e04b7c7dba.jpg)
+![首頁添加商品](https://user-images.githubusercontent.com/82807965/185013884-59cb97b0-be6c-48a6-921f-950142aefe7b.jpg)
+
+
+### 2、登入功能
+* 登
 
 
 
