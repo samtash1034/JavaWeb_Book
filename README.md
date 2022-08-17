@@ -75,6 +75,15 @@
 ![結帳](https://user-images.githubusercontent.com/82807965/185016902-2100c524-b671-46c9-9b0a-4eed9e881125.jpg)
 ![購物車清空](https://user-images.githubusercontent.com/82807965/185016876-9742564c-1b1c-46a3-bda3-4203342331e7.jpg)
 
+*** 6、後台功能
+* 一樣有分頁功能
+* 點擊後台管理會跳到後台，如果沒登入則會直接跳轉到登入頁面(這裡尚未實現用戶和管理員的權限設置)
+* 後台實現新增、編輯、刪除功能
+
+![後台分頁](https://user-images.githubusercontent.com/82807965/185018221-0c405a0c-163a-4096-aacf-09120cca50d0.jpg)
+![編輯圖書](https://user-images.githubusercontent.com/82807965/185018231-51a18b25-a5f2-4482-b13f-3e8393deedf9.jpg)
+![儲存圖書](https://user-images.githubusercontent.com/82807965/185018239-3486bda2-1579-41c6-82cf-1d706a004b86.jpg)
+![刪除圖書](https://user-images.githubusercontent.com/82807965/185018250-e784c531-311a-45db-af85-1ad8db18280f.jpg)
 
 
 
