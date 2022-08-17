@@ -59,6 +59,7 @@
 ![驗證碼錯誤](https://user-images.githubusercontent.com/82807965/185015476-2f538e7d-8fcb-4880-a97d-19d2a7d69667.jpg)
 
 ### 4、購物車
+* 顯示商品數量及總金額
 * 可修改購買的商品數量，金額也會隨之變動
 * 刪除商品及清空購物車皆會提示
 
@@ -66,6 +67,14 @@
 ![修改商品數量](https://user-images.githubusercontent.com/82807965/185016551-b9c8e996-8acc-49e2-adaa-c0f9edc4f7ef.jpg)
 ![刪除商品](https://user-images.githubusercontent.com/82807965/185016555-9817e88d-6eff-4a15-a3c4-44db50438596.jpg)
 ![清空購物車](https://user-images.githubusercontent.com/82807965/185016559-aaa06fa9-17a1-40aa-ae49-73ec29078310.jpg)
+
+### 5、結帳
+* 會生成隨機的訂單編號
+* 結帳過後購物車的商品會全部清空
+
+![結帳](https://user-images.githubusercontent.com/82807965/185016902-2100c524-b671-46c9-9b0a-4eed9e881125.jpg)
+![購物車清空](https://user-images.githubusercontent.com/82807965/185016876-9742564c-1b1c-46a3-bda3-4203342331e7.jpg)
+
 
 
 
