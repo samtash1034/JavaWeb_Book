@@ -33,8 +33,9 @@
 * 登入成功會顯示帳號
 * 當前購物車為空則會提醒您
 * 添加商品會顯示目前購物車商品數量及最後一次添加的商品
+* 點擊或輸入頁碼則會跳到指定的頁碼，若當前為第一頁則不會顯示首頁及上一頁，最後一頁反之亦然
 
-![首頁](https://user-images.githubusercontent.com/82807965/185012683-94113f89-f423-4ac6-8bfd-23e86ddd0bd1.jpg)
+![首頁](https://user-images.githubusercontent.com/82807965/185015996-862f9353-6b15-4669-b75b-b08905825b85.jpg)
 ![登入成功首頁](https://user-images.githubusercontent.com/82807965/185014204-ed09a24b-de5d-4a2e-a8e3-d299f89eb795.jpg)
 ![首頁添加商品](https://user-images.githubusercontent.com/82807965/185013884-59cb97b0-be6c-48a6-921f-950142aefe7b.jpg)
 
@@ -56,6 +57,8 @@
 ![密碼不相同-2](https://user-images.githubusercontent.com/82807965/185015462-90c27ff1-3759-45e9-b8c3-1ebde5c8d58a.jpg)
 ![信箱格式錯誤](https://user-images.githubusercontent.com/82807965/185015473-19f46ea7-d625-4bc1-b5ba-2281f0858c68.jpg)
 ![驗證碼錯誤](https://user-images.githubusercontent.com/82807965/185015476-2f538e7d-8fcb-4880-a97d-19d2a7d69667.jpg)
+
+
 
 
 
