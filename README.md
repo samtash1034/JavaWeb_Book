@@ -85,6 +85,12 @@
 ![儲存圖書](https://user-images.githubusercontent.com/82807965/185018239-3486bda2-1579-41c6-82cf-1d706a004b86.jpg)
 ![刪除圖書](https://user-images.githubusercontent.com/82807965/185018250-e784c531-311a-45db-af85-1ad8db18280f.jpg)
 
+### 7、異常
+* 由於訂單功能尚未完成，因此點擊時會挑轉到提示錯誤頁面
+
+![異常](https://user-images.githubusercontent.com/82807965/185018786-ee75028e-aa76-47a4-8e73-58e048660933.jpg)
+
+
 
 
 
