@@ -46,6 +46,17 @@
 ![登入頁面](https://user-images.githubusercontent.com/82807965/185014497-524cc788-aa3d-4c7b-b01c-88d6c13109d5.jpg)
 ![登入失敗](https://user-images.githubusercontent.com/82807965/185014506-6be2eac2-1cb6-48c4-9aa8-5cd05bff4075.jpg)
 
+### 3、註冊功能
+* 帳號一輸入完則會立即判斷是否可用
+* 密碼不一致，或是帳號、信箱格式、驗證碼輸入錯誤一樣會提示
+* 點擊驗證碼可變換
+
+![帳號可用](https://user-images.githubusercontent.com/82807965/185015448-92fba121-9b9b-4fb7-91ab-b3b7980a7cc4.jpg)
+![帳號重複](https://user-images.githubusercontent.com/82807965/185015457-6d2436bd-e30c-4ff8-9378-06435c34c8ac.jpg)
+![密碼不相同-2](https://user-images.githubusercontent.com/82807965/185015462-90c27ff1-3759-45e9-b8c3-1ebde5c8d58a.jpg)
+![信箱格式錯誤](https://user-images.githubusercontent.com/82807965/185015473-19f46ea7-d625-4bc1-b5ba-2281f0858c68.jpg)
+![驗證碼錯誤](https://user-images.githubusercontent.com/82807965/185015476-2f538e7d-8fcb-4880-a97d-19d2a7d69667.jpg)
+
 
 
 
