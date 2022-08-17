@@ -40,7 +40,13 @@
 
 
 ### 2、登入功能
-* 登
+* 會提示輸入帳號和密碼
+* 登入失敗會提示並保留當初輸入的帳號
+
+![登入頁面](https://user-images.githubusercontent.com/82807965/185014497-524cc788-aa3d-4c7b-b01c-88d6c13109d5.jpg)
+![登入失敗](https://user-images.githubusercontent.com/82807965/185014506-6be2eac2-1cb6-48c4-9aa8-5cd05bff4075.jpg)
+
+
 
 
 
